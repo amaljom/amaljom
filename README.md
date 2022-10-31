@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="lvl" height="40" width="40"> 
    </a>
   </div>
-
+  <hr></hr>
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
