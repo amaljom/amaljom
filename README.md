@@ -5,7 +5,7 @@
     </div>
   jr. full stack web developer </h2>
   <div>
-    📫 How to reach me: <a href="[https://linkedin.com/in/amal-jomon](https://www.linkedin.com/in/amal-jomon-5a5757219/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-jomon" height="30" width="40" /></a>
+    📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amaljom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amal-jomon-5a5757219//)  
   </div> 
   
 
