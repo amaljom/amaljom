@@ -1,7 +1,8 @@
+<div align="center">
 ### Hi there 👋
 ##### I am a junior full stack web developer
 ![I am a junior full stack web developer](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
+</div>
 <!--
 **amaljom/amaljom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
