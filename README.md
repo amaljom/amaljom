@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,vue,laravel,php)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,bootstrap,vue,laravel,php,mysql)](https://skills.thijs.gg)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amaljom)  
