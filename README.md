@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <h3>Languages and Tools:
+    Languages and Tools:
       [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,bootstrap,vue,laravel,php,mysql)](https://skills.thijs.gg)
-    </h3>
+    
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
