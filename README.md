@@ -28,7 +28,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/amal-jomon-5a5757219/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ln" height="40" width="40"> 
     </a>
-  </div>
+ </div>
+  
+ <hr></hr>
   <h3>Languages and Tools: </h3>
  <div>
     <a>
