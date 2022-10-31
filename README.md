@@ -1,5 +1,5 @@
 <div align="center">
-  <p border-bottom="0"> Hi there 👋, i'm Amal Jomon <br>
+  <h2 border-bottom="0"> Hi there 👋, i'm Amal Jomon </h2>
     <div>
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
