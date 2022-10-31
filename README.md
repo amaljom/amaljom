@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h3>Languages and Tools: </h3>
+  <div>
+    <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="al"> 
+    </a>
+  </div>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,bootstrap,vue,laravel,php,mysql)](https://skills.thijs.gg)
  
 
