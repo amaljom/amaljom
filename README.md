@@ -1,7 +1,7 @@
 <div align="center">
-  <h1> Hi there 👋 <br> i'm Amal jomon</h1>
+  <h1> Hi there 👋, i'm Amal Jomon <br> </h1>
   <img src="[img_girl.jpg](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" alt="al">
-  <h2> I am a junior full stack web developer </h2>
+   I am a junior full stack web developer </h2>
  
 
 
