@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there 👋 <br> i'm Amal jomon</h1>
-  ![I am a junior full stack web developer](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+  <img src="[img_girl.jpg](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
   <h2> I am a junior full stack web developer </h2>
  
 
