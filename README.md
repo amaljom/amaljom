@@ -3,7 +3,7 @@
     <div>
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
-   I am a junior full stack web developer </h1>
+   <h3>I am a junior full stack web developer</h3> </h1>
  
 
 
