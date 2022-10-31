@@ -1,5 +1,6 @@
+<h2 align=""center> Hi there 👋, i'm Amal Jomon </h2>
 <div align="center">
-  <h2 style="border=0;"> Hi there 👋, i'm Amal Jomon </h2>
+  
     <div>
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
