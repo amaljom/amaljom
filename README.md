@@ -4,7 +4,7 @@
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
   <p>jr. full stack web developer </p>
-
+</div>
   <hr></hr>
 
 
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
-</div>
+
