@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,vue,laravel,php)](https://skills.thijs.gg)
 
 
