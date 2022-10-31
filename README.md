@@ -28,22 +28,28 @@ Here are some ideas to get you started:
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="40" width="40"> 
     </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="html" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="40" width="40"> 
    </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="js" height="40" width="40"> 
    </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bs" height="40" width="40"> 
    </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="sass" height="40" width="40"> 
    </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" alt="vue" height="40" width="40"> 
    </a>
    <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="myql" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="lvl" height="40" width="40"> 
    </a>
   </div>
 
