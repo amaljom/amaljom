@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there 👋, i'm Amal Jomon <br>
-  <img src="[img_girl.jpg](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" alt="al">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al">
    I am a junior full stack web developer </h1>
  
 
