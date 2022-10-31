@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
  <h3> 📫 How to reach me:</h3>
  <div>
-    <a src="https://www.linkedin.com/in/amal-jomon-5a5757219/">
+    <a href="https://www.linkedin.com/in/amal-jomon-5a5757219/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ln" height="40" width="40"> 
     </a>
   </div>
