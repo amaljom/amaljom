@@ -1,8 +1,9 @@
 <div align="center">
-  <h1> Hi there 👋 </h1>
+  <h1> Hi there 👋 <br> i'm Amal jomon</h1>
+  ![I am a junior full stack web developer](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
   <h2> I am a junior full stack web developer </h2>
  
-![I am a junior full stack web developer](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+
 
 <!--
 **amaljom/amaljom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
