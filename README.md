@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <h3> 📫 How to reach me:</h3>
+ <div>
+    <a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="40" width="40"> 
+  </a>
+  </div>
   <h3>Languages and Tools: </h3>
  <div>
     <a>
@@ -56,7 +62,7 @@ Here are some ideas to get you started:
    </a>
   </div>
   <hr></hr>
- </div>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
-
+ </div>
