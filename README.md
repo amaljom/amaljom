@@ -1,9 +1,9 @@
 <div align="center">
-  <h2 border-bottom="0"> Hi there 👋, i'm Amal Jomon <br>
+  <p border-bottom="0"> Hi there 👋, i'm Amal Jomon <br>
     <div>
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
-  jr. full stack web developer </h2>
+  jr. full stack web developer </p>
 
   <hr></hr>
 
