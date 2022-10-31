@@ -3,7 +3,7 @@
   <h2> I am a junior full stack web developer </h2>
  
 ![I am a junior full stack web developer](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-</div>
+
 <!--
 **amaljom/amaljom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljom&show_icons=true)  
+</div>
