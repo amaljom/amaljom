@@ -5,7 +5,7 @@
     </div>
   jr. full stack web developer </h2>
 
-  
+  <hr></hr>
 
 
 <!--
