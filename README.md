@@ -4,9 +4,7 @@
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="al"> 
     </div>
   jr. full stack web developer </h2>
-  <div>
-    📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amaljom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amal-jomon-5a5757219//)  
-  </div> 
+
   
 
 
