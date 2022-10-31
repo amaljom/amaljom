@@ -25,8 +25,26 @@ Here are some ideas to get you started:
   <h3>Languages and Tools: </h3>
  <div>
     <a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40" width="40"> 
     </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="html" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+   </a>
+   <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="cs" height="40" width="40"> 
+   </a>
   </div>
 
  
