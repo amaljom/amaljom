@@ -28,9 +28,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/amal-jomon-5a5757219/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ln" height="40" width="40"> 
     </a>
-    <a href="https://www.instagram.com/__amal_j/">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="ig" height="40" width="40"> 
-    </a>
+    
  </div>
   
  <hr></hr>
