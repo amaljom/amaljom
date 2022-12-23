@@ -64,6 +64,9 @@ Here are some ideas to get you started:
   <a>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="pr" height="40" width="40"> 
    </a>
+   <a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java.svg" alt="pr" height="40" width="40"> 
+   </a>
   </div>
   <hr></hr>
 
